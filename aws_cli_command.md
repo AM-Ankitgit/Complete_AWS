@@ -1,4 +1,4 @@
-aws version
+aws --version
 aws configure
 
 # List all S3 buckets
